@@ -2,12 +2,12 @@
 > tp_archi@1.0.0 test:int
 > jest --config jest.config.int.ts
 
-PASS src/webinars/adapters/webinar-repository.prisma.int.test.ts (17.402 s)
-PASS src/webinars/adapters/organize-webinar.int.test.ts (8.77 s)
-PASS src/api.e2e.test.ts (19.885 s)
+PASS src/api.e2e.test.ts (43.123 s)
+PASS src/webinars/adapters/webinar-repository.prisma.int.test.ts (14.176 s)
+PASS src/webinars/adapters/organize-webinar.int.test.ts (15.23 s)
 
 Test Suites: 3 passed, 3 total
-Tests:       8 passed, 8 total
+Tests:       9 passed, 9 total
 Snapshots:   0 total
-Time:        46.226 s
+Time:        72.723 s
 Ran all test suites.
